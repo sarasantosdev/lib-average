@@ -29,3 +29,6 @@ console.log(average(10, 20, 30));
 
 The Jest framework was used to perform the tests.
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
