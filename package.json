@@ -1,0 +1,19 @@
+{
+  "name": "lib-average",
+  "version": "1.0.0",
+  "description": "Calculates the average of numbers or a vector of numbers ignoring invalid values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "math",
+    "average",
+    "media"
+  ],
+  "author": "Sara Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
