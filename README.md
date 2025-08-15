@@ -1,7 +1,5 @@
 # Lib Average
 
-## Description
-
 Simple function to calculate the average of numbers and vector of numbers developed in Javascript.
 
 ## Debugging
